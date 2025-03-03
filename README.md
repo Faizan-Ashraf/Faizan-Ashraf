@@ -1,7 +1,5 @@
 # Muhammad Faizan Ashraf
 
-![Profile Banner](https://via.placeholder.com/1200x400) <!-- Replace with your banner image -->
-
 ## 👋 About Me
 
 I am a passionate and dedicated **Software Engineering** student at the **University of Central Punjab (UCP)**. I am currently pursuing my **BS in Software Engineering** and have a strong interest in programming, video editing, and exploring new technologies. I am always eager to learn and grow in a challenging environment.
@@ -11,18 +9,33 @@ I am a passionate and dedicated **Software Engineering** student at the **Univer
 ## 🛠️ Skills
 
 ### Programming Languages
-- **C++** (90%)
-- **Python** (Learning)
-- **Java** (Learning)
+<div style="background-color: #f3f3f3; border-radius: 5px; margin: 10px 0; padding: 3px;">
+  <div style="background-color: #4CAF50; width: 90%; border-radius: 5px; text-align: center; color: white; animation: progress-bar 2s ease-in-out;">C++ (90%)</div>
+</div>
+
+<div style="background-color: #f3f3f3; border-radius: 5px; margin: 10px 0; padding: 3px;">
+  <div style="background-color: #4CAF50; width: 70%; border-radius: 5px; text-align: center; color: white; animation: progress-bar 2s ease-in-out;">Python (70%)</div>
+</div>
+
+<div style="background-color: #f3f3f3; border-radius: 5px; margin: 10px 0; padding: 3px;">
+  <div style="background-color: #4CAF50; width: 60%; border-radius: 5px; text-align: center; color: white; animation: progress-bar 2s ease-in-out;">Java (60%)</div>
+</div>
 
 ### Tools & Software
-- **MS Word, Excel & PowerPoint** (80%)
-- **Video Editing** (90%)
+<div style="background-color: #f3f3f3; border-radius: 5px; margin: 10px 0; padding: 3px;">
+  <div style="background-color: #4CAF50; width: 80%; border-radius: 5px; text-align: center; color: white; animation: progress-bar 2s ease-in-out;">MS Word, Excel & PowerPoint (80%)</div>
+</div>
 
-### Other Skills
-- Problem Solving
-- Team Collaboration
-- Continuous Learning
+<div style="background-color: #f3f3f3; border-radius: 5px; margin: 10px 0; padding: 3px;">
+  <div style="background-color: #4CAF50; width: 90%; border-radius: 5px; text-align: center; color: white; animation: progress-bar 2s ease-in-out;">Video Editing (90%)</div>
+</div>
+
+<style>
+  @keyframes progress-bar {
+    0% { width: 0%; }
+    100% { width: attr(data-width); }
+  }
+</style>
 
 ---
 
