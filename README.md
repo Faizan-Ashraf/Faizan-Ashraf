@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Ashraf&show_icons=true&theme=cobalt" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ashraf&layout=compact&langs_count=8&theme=cobalt" />
   
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faizan-Ashraf&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faizan-Ashraf&theme=cobalt&type=png" alt="GitHub Streak" /></a>
   
 </p>
 
